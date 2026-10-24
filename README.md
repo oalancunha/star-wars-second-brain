@@ -84,7 +84,6 @@ As respostas devem ser acompanhadas de citações que permitam localizar as info
 Os materiais gerados durante o projeto serão organizados neste repositório.
 
 - Mapas mentais;
-- Guias e resumos de estudo;
 - Apresentações;
 - Capturas de tela das respostas com citações.
 
